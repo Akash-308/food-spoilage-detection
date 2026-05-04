@@ -44,7 +44,9 @@ Located in `src/main.ino`
 ---
 
 ## 🎥 Demo
-(Add your video link here)
+
+Watch the project demo here:  
+https://youtu.be/V3isnJH2LWM
 
 ---
 
